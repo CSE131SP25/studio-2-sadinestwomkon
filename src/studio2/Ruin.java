@@ -42,6 +42,7 @@ public class Ruin {
 		startAmount = 100;
 	 
 		}
+		System.out.println ("MVP of the Day: Kailyn + Isabel");
 	}
 }
 
